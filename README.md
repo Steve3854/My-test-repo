@@ -47,7 +47,7 @@ GitHub Markdown API renders a color swatch when you write `#FFA22E` or `rgb(127,
 
 ### Code snippet
 
-https://github.com/sindresorhus/generate-github-markdown-css/blob/6d6a328dc9706d4e6f1bcc524ed1ad1b0448a3ea/index.js#L25-L28
+https://github.com/Steve3854/My-test-repo/blob/7eb02ece70fbf08fea14b0481527bce42ad17fa8/md-converter-test.py#L20
 
 ---
 
